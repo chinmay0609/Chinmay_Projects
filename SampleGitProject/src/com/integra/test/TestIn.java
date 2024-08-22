@@ -8,6 +8,7 @@ public class TestIn {
 		
 		System.out.println("CHinay Best");
 		System.out.println("CHinay Best");
+		System.out.println("CHinay Best");
 	}
 
 }
